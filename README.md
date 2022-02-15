@@ -1,10 +1,8 @@
 # Docker support for Opera blockchain
 
----
-
 ### Description
 
-The project comprises a Docker file for the Opera blockchain maintained by
+The project comprises a Dockerfile for the Opera blockchain maintained by
 the [Fantom Foundation](https://github.com/Fantom-Foundation)
 
 ### Prerequisites
